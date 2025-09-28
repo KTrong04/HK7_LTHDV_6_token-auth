@@ -44,7 +44,7 @@ Request Body:
 
 📷 Kết quả trong Postman:
 ![register](public/results/register.png)
-![show\_users\_mongodb\_register](public/results/show_users_mongodb_register.png)
+![show\_users\_mongodb\_register](public/results/show_users_mongdb_register.png)
 
 ---
 
