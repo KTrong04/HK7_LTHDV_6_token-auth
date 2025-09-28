@@ -1,4 +1,4 @@
-# 5. Token Authentication (JWT)
+# Token Authentication (JWT)
 
 ## Giới thiệu
 Dự án này minh họa cách sử dụng **JWT (JSON Web Token)** để xác thực người dùng trong ứng dụng Node.js với Express và MongoDB.
