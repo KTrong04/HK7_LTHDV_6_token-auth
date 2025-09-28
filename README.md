@@ -18,7 +18,7 @@ npm install express bcryptjs jsonwebtoken mongoose body-parser
 ### 2. Chạy server
 
 ```bash
-node server.js
+node app.js
 ```
 
 Server mặc định chạy tại:
