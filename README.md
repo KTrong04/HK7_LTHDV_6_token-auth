@@ -22,7 +22,7 @@ node server.js
 ```
 
 Server mặc định chạy tại:
-👉 [http://localhost:3000](http://localhost:3000)
+[http://localhost:3000](http://localhost:3000)
 
 ---
 
