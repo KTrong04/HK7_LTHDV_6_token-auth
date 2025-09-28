@@ -12,7 +12,7 @@ Các chức năng chính:
 
 ### 1. Clone dự án và cài đặt thư viện
 ```bash
-npm install express bcryptjs jsonwebtoken mongoose
+npm install express bcryptjs jsonwebtoken mongoose body-parser
 ````
 
 ### 2. Chạy server
